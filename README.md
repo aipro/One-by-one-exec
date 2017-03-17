@@ -1,2 +1,3 @@
 # One-by-one-exec
-Sequential execution of VASP tasks
+
+A small script for sequential execution of quantum chemical calculations on VASP
